@@ -6,9 +6,7 @@
 This project uses a solar plant generation dataset [available on Kaggle](https://www.kaggle.com/anikannal/solar-power-generation-data).
 
 **Kaggle Description**
-
-
-    “This data has been gathered at two solar power plants in India over a 34 day period. It has two pairs of files - each pair has one power generation dataset and one sensor readings dataset. The power generation datasets are gathered at the inverter level - each inverter has multiple lines of solar panels attached to it. The weather sensor data is gathered at a plant level - a single array of sensors optimally placed at the plant.”
+> “This data has been gathered at two solar power plants in India over a 34 day period. It has two pairs of files - each pair has one power generation dataset and one sensor readings dataset. The power generation datasets are gathered at the inverter level - each inverter has multiple lines of solar panels attached to it. The weather sensor data is gathered at a plant level - a single array of sensors optimally placed at the plant.”
 
 
 ## Generator Data Fields
