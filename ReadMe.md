@@ -1,4 +1,4 @@
-## Solar Power Plant Timeseries Analysis
+# Solar Power Plant Timeseries Analysis
 
 
 ## About the Dataset
